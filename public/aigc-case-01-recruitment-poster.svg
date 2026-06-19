@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f9789"/>
+      <stop offset="60%" stop-color="#17b7aa"/>
+      <stop offset="100%" stop-color="#dff8f4"/>
+    </linearGradient>
+    <style>
+      .title{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;font-size:92px;font-weight:700;fill:#ffffff}
+      .sub{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;font-size:34px;fill:#ecfffb}
+      .body{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;font-size:28px;fill:#effffc}
+      .tag{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;font-size:24px;fill:#15574f}
+      .cta{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;font-size:38px;font-weight:700;fill:#0f9789}
+    </style>
+  </defs>
+  <rect width="1200" height="1600" fill="url(#bg)"/>
+  <circle cx="1050" cy="240" r="180" fill="rgba(255,255,255,0.18)"/>
+  <circle cx="180" cy="1320" r="220" fill="rgba(255,255,255,0.12)"/>
+  <text x="92" y="180" class="sub">AI Product Intern Recruitment</text>
+  <text x="92" y="330" class="title">和真正的</text>
+  <text x="92" y="435" class="title">AI 产品，</text>
+  <text x="92" y="540" class="title">一起长出来</text>
+  <text x="92" y="660" class="sub">不是只做想法，不是只写文档，</text>
+  <text x="92" y="712" class="sub">而是走进真实业务场景，</text>
+  <text x="92" y="764" class="sub">把 AI 能力变成可上线、可验证、可迭代的产品。</text>
+
+  <rect x="92" y="860" width="260" height="56" rx="28" fill="#ffffff"/>
+  <text x="136" y="896" class="tag">用户调研</text>
+  <rect x="370" y="860" width="260" height="56" rx="28" fill="#ffffff"/>
+  <text x="414" y="896" class="tag">竞品分析</text>
+  <rect x="648" y="860" width="260" height="56" rx="28" fill="#ffffff"/>
+  <text x="690" y="896" class="tag">Prompt设计</text>
+
+  <rect x="92" y="940" width="260" height="56" rx="28" fill="#ffffff"/>
+  <text x="128" y="976" class="tag">知识库整理</text>
+  <rect x="370" y="940" width="260" height="56" rx="28" fill="#ffffff"/>
+  <text x="398" y="976" class="tag">对话流程优化</text>
+  <rect x="648" y="940" width="260" height="56" rx="28" fill="#ffffff"/>
+  <text x="684" y="976" class="tag">AI产品验证</text>
+
+  <text x="92" y="1110" class="body">我们希望你：</text>
+  <text x="92" y="1162" class="body">对 AI 应用有热情，愿意理解用户问题，</text>
+  <text x="92" y="1214" class="body">也愿意把一个模糊想法打磨成可执行方案。</text>
+
+  <rect x="92" y="1330" width="430" height="96" rx="48" fill="#ffffff"/>
+  <text x="145" y="1392" class="cta">AI 产品实习生招募中</text>
+</svg>

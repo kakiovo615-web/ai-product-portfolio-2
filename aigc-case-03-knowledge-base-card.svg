@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f3fbfb"/>
+      <stop offset="100%" stop-color="#e6f7f4"/>
+    </linearGradient>
+    <style>
+      .title{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;font-size:64px;font-weight:700;fill:#17303a}
+      .sub{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;font-size:28px;fill:#5d7581}
+      .body{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;font-size:30px;fill:#1a3c46}
+      .label{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;font-size:24px;font-weight:700;fill:#0f9789}
+    </style>
+  </defs>
+  <rect width="1400" height="1000" fill="url(#bg)"/>
+  <rect x="64" y="60" width="1272" height="880" rx="36" fill="#ffffff" stroke="#dceaea"/>
+  <text x="110" y="170" class="title">什么是 RAG 知识库？</text>
+  <text x="110" y="230" class="sub">适合新人理解的标准答案样例</text>
+
+  <text x="110" y="340" class="label">一句话总结</text>
+  <text x="110" y="390" class="body">RAG 就是“先帮 AI 找资料，再让它回答问题”。</text>
+
+  <text x="110" y="500" class="label">通俗解释</text>
+  <text x="110" y="550" class="body">如果只靠模型自己的记忆，它可能会答偏、答旧，甚至编造。</text>
+  <text x="110" y="598" class="body">RAG 会先从知识库里找到最相关的信息，再把信息和问题一起给模型生成答案。</text>
+
+  <text x="110" y="710" class="label">工作例子</text>
+  <text x="110" y="760" class="body">比如 AI 客服回答“门店预约规则”，应该先调取营业时间、取消规则、预约方式，</text>
+  <text x="110" y="808" class="body">再基于这些真实资料组织回复，而不是让模型自由发挥。</text>
+</svg>

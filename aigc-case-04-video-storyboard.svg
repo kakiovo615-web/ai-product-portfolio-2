@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8f3ea"/>
+      <stop offset="100%" stop-color="#ece6de"/>
+    </linearGradient>
+    <style>
+      .title{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;font-size:52px;font-weight:700;fill:#17303a}
+      .sub{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;font-size:24px;fill:#5e7480}
+      .body{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;font-size:24px;fill:#1a3c46}
+      .num{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;font-size:26px;font-weight:700;fill:#ffffff}
+      .card{fill:#ffffff;stroke:#dbe5e8;stroke-width:2}
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <text x="90" y="100" class="title">短视频口播脚本 - 分镜展示</text>
+  <text x="90" y="142" class="sub">主题：AI如何帮求职者更快生成更像样的简历表达和Boss打招呼语</text>
+
+  <rect x="90" y="220" width="320" height="520" rx="28" class="card"/>
+  <circle cx="142" cy="278" r="22" fill="#0f9789"/><text x="134" y="287" class="num">1</text>
+  <text x="176" y="286" class="body">开头抓人</text>
+  <text x="118" y="360" class="body">“你是不是也有这种感觉：</text>
+  <text x="118" y="404" class="body">明明做过不少事，</text>
+  <text x="118" y="448" class="body">但一到写简历、写 Boss</text>
+  <text x="118" y="492" class="body">打招呼语就瞬间不会说话了？”</text>
+
+  <rect x="448" y="220" width="320" height="520" rx="28" class="card"/>
+  <circle cx="500" cy="278" r="22" fill="#0f9789"/><text x="492" y="287" class="num">2</text>
+  <text x="534" y="286" class="body">中段解释</text>
+  <text x="476" y="360" class="body">“现在很多人会直接用 AI</text>
+  <text x="476" y="404" class="body">帮自己整理经历。</text>
+  <text x="476" y="448" class="body">它不是简单帮你润色几句，</text>
+  <text x="476" y="492" class="body">而是把你的项目、实习和成果</text>
+  <text x="476" y="536" class="body">重新拆成更像岗位语言的表达。”</text>
+
+  <rect x="806" y="220" width="320" height="520" rx="28" class="card"/>
+  <circle cx="858" cy="278" r="22" fill="#0f9789"/><text x="850" y="287" class="num">3</text>
+  <text x="892" y="286" class="body">价值落点</text>
+  <text x="834" y="360" class="body">“尤其对不会包装自己的人，</text>
+  <text x="834" y="404" class="body">这种工具最大的价值不是代写，</text>
+  <text x="834" y="448" class="body">而是帮你更快说清楚</text>
+  <text x="834" y="492" class="body">你到底做过什么。”</text>
+
+  <rect x="1164" y="220" width="320" height="520" rx="28" class="card"/>
+  <circle cx="1216" cy="278" r="22" fill="#0f9789"/><text x="1208" y="287" class="num">4</text>
+  <text x="1250" y="286" class="body">结尾字幕</text>
+  <text x="1192" y="360" class="body">适合配字幕：</text>
+  <text x="1192" y="412" class="body">“AI不是替你编故事，</text>
+  <text x="1192" y="456" class="body">而是帮你把做过的事</text>
+  <text x="1192" y="500" class="body">表达得更像样。”</text>
+</svg>

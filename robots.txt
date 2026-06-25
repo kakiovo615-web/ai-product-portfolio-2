@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kakiovo615-web.github.io/ai-product-portfolio-2/sitemap.xml
